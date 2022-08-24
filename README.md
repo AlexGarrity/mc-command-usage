@@ -1,5 +1,6 @@
 # Minecraft Command Usage
-A simple script which can automatically retrieve Minecraft server log files from an FTP server, and dumps them into an SQLite database
+A simple script which can automatically retrieve Minecraft server log files from an FTP server, and dumps them into an SQLite database.
+Also comes with some sample analysis using Seaborn & PyPlot.
 
 ## Usage
 ```
